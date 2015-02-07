@@ -1,0 +1,7 @@
+name: BukkitTesting
+descrption: BukkitTesting
+version: 1
+main: Main
+commands:
+  test:
+    description: Tests stuff, duh.
